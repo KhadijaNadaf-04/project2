@@ -1,6 +1,4 @@
 # NAME 
-sufiya nadaf
+khadija nadaf.
 # New project 
-this project was created from local
-# NAME
-Khadija Nadaf.
+this project was created from local.
